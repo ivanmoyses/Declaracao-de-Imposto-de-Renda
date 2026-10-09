@@ -167,10 +167,10 @@ Projeto desenvolvido como parte de um desafio prático da Digital Innovation One
 ## 📸 Demonstração do projeto
 
 ### Dados do titular
-![Dados do titular](images/titular.png)
+![Dados do titular](imagens/Titular.png)
 
 ### Informes bancários
-![Informes bancários](images/informes-bancarios.png)
+![Informes bancários](imagens/Informes.png)
 
 ### Lançamentos financeiros
-![Lançamentos financeiros](images/notas.png)
+![Lançamentos financeiros](imagens/Notas.png)
