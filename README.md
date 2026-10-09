@@ -163,3 +163,14 @@ Antes de utilizar qualquer informação em uma declaração efetiva, o usuário 
 **Ivan Moyses Ramos**
 
 Projeto desenvolvido como parte de um desafio prático da Digital Innovation One (DIO).
+
+## 📸 Demonstração do projeto
+
+### Dados do titular
+![Dados do titular](images/titular.png)
+
+### Informes bancários
+![Informes bancários](images/informes-bancarios.png)
+
+### Lançamentos financeiros
+![Lançamentos financeiros](images/notas.png)
